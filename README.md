@@ -16,7 +16,7 @@ I'm passionate about iOS development and currently learning Swift, SwiftUI, and 
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - MVVM
 - REST API
