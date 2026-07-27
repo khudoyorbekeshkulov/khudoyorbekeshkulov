@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Khudoyorbek Eshkulov
 
-<!--
-**khudoyorbekeshkulov/khudoyorbekeshkulov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Aspiring iOS Developer
 
-Here are some ideas to get you started:
+I'm passionate about iOS development and currently learning Swift, SwiftUI, and UIKit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technologies
+
+- Swift
+- SwiftUI
+- UIKit
+- Git & GitHub
+- Xcode
+
+---
+
+## 🌱 Currently Learning
+
+- MVVM
+- REST API
+- Firebase
+- German 🇩🇪
+
+---
+
+## 🎯 Goal
+
+Become an iOS Developer in Germany and build high-quality mobile applications.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/khudoyorbekeshkulov
