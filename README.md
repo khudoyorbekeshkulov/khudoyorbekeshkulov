@@ -34,3 +34,5 @@ Become an iOS Developer in Germany and build high-quality mobile applications.
 ## 📫 Contact
 
 - GitHub: https://github.com/khudoyorbekeshkulov
+- Email: xudoyorbekeshqulov@gmail.com
+- Telegram: @imkhudoyorbek
