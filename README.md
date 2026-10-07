@@ -21,7 +21,6 @@ I'm passionate about iOS development and currently learning Swift, SwiftUI, and 
 - MVVM
 - REST API
 - Firebase
-- German 🇩🇪
 
 ---
 
